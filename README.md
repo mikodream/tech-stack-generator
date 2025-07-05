@@ -15,7 +15,6 @@ A sleek and interactive Vue 3 + Vite app that lets you select your technology sk
 
 ## Preview
 
-![preview](./public/preview.png)
 
 ## Getting Started
 
@@ -27,7 +26,7 @@ A sleek and interactive Vue 3 + Vite app that lets you select your technology sk
 ### Install
 
 ```bash
-git clone https://github.com/your-username/tech-stack-generator.git
+git clone https://github.com/mikodream/tech-stack-generator.git
 cd tech-stack-generator
 npm install
 # or
