@@ -1,9 +1,4 @@
 
----
-
-## ✅ 中文版 README（简体中文）
-
-```markdown
 # 技术栈概述生成器
 
 > ✨ **生成漂亮的技术栈图片，让你的简历更加高大上！** ✨
@@ -37,3 +32,4 @@ cd tech-stack-generator
 npm install
 # 或者
 pnpm install
+```
